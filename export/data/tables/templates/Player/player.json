@@ -1,0 +1,8 @@
+{
+    "blueprint": "Player",
+    "properties": {
+        "PlayerInput": {
+            "hasFocus": true
+        }
+    }
+}

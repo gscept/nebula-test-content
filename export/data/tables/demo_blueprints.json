@@ -1,0 +1,18 @@
+{
+    "blueprints": {
+        "Player": {
+            "desc": "First person player",
+            "properties": [
+                "WorldTransform",
+            ]
+        },
+        "StaticEnvironment": {
+            "desc": "Static environment object",
+            "properties": [
+                "WorldTransform",
+                "GraphicsId",
+                "ModelResource"
+            ]
+        }
+    }
+}
